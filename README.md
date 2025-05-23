@@ -1,3 +1,10 @@
 # 📝 Activity Tracker
 
-> **Activity Tracker** is a minimalist and responsive to-do list app built with React. It allows users to add, edit, and delete tasks while storing all data locally in the browser—no backend required. The app features a clean interface, modular component design, and persistent state via localStorage. Ideal for practicing state management, prop drilling, and UI responsiveness.
+> **Activity Tracker** is a full-stack task management application built with **React** and **Django**. The app features a clean and responsive interface, allowing users to manage tasks with persistent storage and real-time updates. It demonstrates full-stack development concepts, modular component architecture, and RESTful API integration.
+
+## 🔧 Tech Stack
+
+- **Frontend:** React, Vite, Vanilla CSS, Font Awesome
+- **Backend:** Django, Django REST Framework
+- **State & Storage:** useState, useEffect, localStorage, Django models
+- **Build Tools:** Vite (frontend), Django (backend)
